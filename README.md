@@ -20,4 +20,4 @@ Bu çalışmada SolidWorks üzerinde eksen çizgileri (centerlines) oluşturmay�
 
 Bu çalışmayla birlikte SolidWorks'te dairesel formlar, çoğaltma araçları ve gelişmiş 2D çizim konularında pratik yaptım.
 
-![Parça3](Parça3.png)
+![Parça3](Parca3.png)
